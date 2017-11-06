@@ -11,7 +11,7 @@ namespace Books.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=BookDemo;User ID=SA;Password=P@ssw0rd12;MultipleActiveResultSets=true");
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=BookDemo;User ID=SA;Password=;MultipleActiveResultSets=true");
         }
     }
 }
