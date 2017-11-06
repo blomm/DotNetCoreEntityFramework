@@ -1,0 +1,8 @@
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/obj/Debug/netstandard2.0/DutchTreat.Database.csproj.CoreCompileInputs.cache
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/obj/Debug/netstandard2.0/DutchTreat.Database.AssemblyInfoInputs.cache
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/obj/Debug/netstandard2.0/DutchTreat.Database.AssemblyInfo.cs
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/bin/Debug/netstandard2.0/DutchTreat.Database.deps.json
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/bin/Debug/netstandard2.0/DutchTreat.Database.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/bin/Debug/netstandard2.0/DutchTreat.Database.pdb
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/obj/Debug/netstandard2.0/DutchTreat.Database.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/DutchTreat.Database/obj/Debug/netstandard2.0/DutchTreat.Database.pdb

@@ -1,0 +1,16 @@
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/webapi.deps.json
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.json
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.dev.json
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/webapi.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/webapi.pdb
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/obj/Debug/netcoreapp2.0/webapi.csproj.CoreCompileInputs.cache
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfoInputs.cache
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfo.cs
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/obj/Debug/netcoreapp2.0/webapi.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/obj/Debug/netcoreapp2.0/webapi.pdb
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/Api.Database.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/Api.Database.pdb
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/Books.Database.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/Books.Database.pdb
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/DutchTreat.Database.dll
+/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/webapi/bin/Debug/netcoreapp2.0/DutchTreat.Database.pdb
