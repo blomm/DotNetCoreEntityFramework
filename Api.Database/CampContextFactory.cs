@@ -16,7 +16,7 @@ namespace Api.Database
         {
             var builder = new DbContextOptionsBuilder<CampContext>();
             builder.UseSqlServer(
-                "Server=localhost;Database=CampDemo;User ID=SA;Password=P@ssw0rd12;MultipleActiveResultSets=true;");
+                "Server=localhost;Database=CampDemo;User ID=SA;Password=;MultipleActiveResultSets=true;");
 
             return new CampContext(builder.Options);
         }
