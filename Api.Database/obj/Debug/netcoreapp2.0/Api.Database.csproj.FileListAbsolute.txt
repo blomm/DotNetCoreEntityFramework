@@ -1,8 +1,0 @@
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/bin/Debug/netcoreapp2.0/Api.Database.deps.json
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/bin/Debug/netcoreapp2.0/Api.Database.dll
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/bin/Debug/netcoreapp2.0/Api.Database.pdb
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/obj/Debug/netcoreapp2.0/Api.Database.csproj.CoreCompileInputs.cache
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/obj/Debug/netcoreapp2.0/Api.Database.AssemblyInfoInputs.cache
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/obj/Debug/netcoreapp2.0/Api.Database.AssemblyInfo.cs
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/obj/Debug/netcoreapp2.0/Api.Database.dll
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Api.Database/obj/Debug/netcoreapp2.0/Api.Database.pdb

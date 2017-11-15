@@ -30,8 +30,8 @@ namespace webapi.Controllers{
             }
         }
 
-        [HttpGet("products")]
-        public IActionResult GetProducts(string category){
+        [HttpGet("products/{category}")]
+        public IActionResult GetProductsByCategory(string category){
             try
             {
                 return Ok(_dutchRepo.GetProductsByCategory(category));

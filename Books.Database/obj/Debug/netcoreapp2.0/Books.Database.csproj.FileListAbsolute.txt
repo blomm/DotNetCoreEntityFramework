@@ -1,8 +1,0 @@
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/obj/Debug/netcoreapp2.0/Books.Database.csproj.CoreCompileInputs.cache
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/obj/Debug/netcoreapp2.0/Books.Database.AssemblyInfoInputs.cache
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/obj/Debug/netcoreapp2.0/Books.Database.AssemblyInfo.cs
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/bin/Debug/netcoreapp2.0/Books.Database.deps.json
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/bin/Debug/netcoreapp2.0/Books.Database.dll
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/bin/Debug/netcoreapp2.0/Books.Database.pdb
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/obj/Debug/netcoreapp2.0/Books.Database.dll
-/Users/michaelblom/Development/pluralsight/wildermuth/dotnetcore.api.security/Books.Database/obj/Debug/netcoreapp2.0/Books.Database.pdb
