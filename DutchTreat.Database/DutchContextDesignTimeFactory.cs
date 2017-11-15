@@ -9,7 +9,7 @@ namespace DutchTreat.Database{
         {
             var builder = new DbContextOptionsBuilder<DutchContext>();
             builder.UseSqlServer(
-                "Server=localhost;Database=DutchTreat;User ID=SA;Password=P@ssw0rd12;MultipleActiveResultSets=true;");
+                "Server=localhost;Database=DutchTreat;User ID=SA;Password=;MultipleActiveResultSets=true;");
 
             return new DutchContext(builder.Options);        }
     }
